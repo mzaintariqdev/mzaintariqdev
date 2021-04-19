@@ -21,7 +21,7 @@ Hi, I'm [Zain Tariq](https://www.linkedin.com/in/muhammad-zain-tariq/), a Full S
 
 <a target="_blank" href="https://mzaintariq.medium.com/form-validation-using-formik-yup-in-react-js-c32cd917bf5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mzaintariq/8" alt="Recent Article 0"> 
   
-<a target="_blank" href="https://mzaintariq.medium.com/getting-started-with-redis-and-setup-it-on-windows-ff0c1ec6d4c"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mzaintariq/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://mzaintariq.medium.com/getting-started-with-redis-and-setup-it-on-windows-ff0c1ec6d4c"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mzaintariq/1" alt="Recent Article 0"> 
 
 <details>
 <summary>📈 My GitHub Stats</summary>
