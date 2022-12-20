@@ -11,7 +11,7 @@ Hi, I'm [Zain Tariq](https://www.linkedin.com/in/muhammad-zain-tariq/), a Full S
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on cool :wink: full stack app
-- 🌱 I’m currently learning Predictive Business Analysis
+- 🌱 I’m currently learning BlockChain Development
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-zain-tariq/),
 - 📫 for Projects Contact me at : [Fiverr](https://www.fiverr.com/ch_zainbhutta?up_rollout=true),[UpWork](https://www.upwork.com/freelancers/~013903c489c735ee1c),
