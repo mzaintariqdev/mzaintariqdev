@@ -15,7 +15,7 @@ Hi, I'm [Zain Tariq](https://www.linkedin.com/in/muhammad-zain-tariq/), a Full S
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/muhammad-zain-tariq/),
 - 📫 for Projects Contact me at : [Fiverr](https://www.fiverr.com/ch_zainbhutta?up_rollout=true),[UpWork](https://www.upwork.com/freelancers/~013903c489c735ee1c),
-- 📝[Resume](https://drive.google.com/file/d/1774lSq__fIA_w36FY1OGb-W1ZbfYFXxV/view](https://drive.google.com/file/d/1e0u0JpfQ4yeNQx09WigwXrWCZGYvFL-C/view))
+- 📝[Resume](https://drive.google.com/file/d/1e0u0JpfQ4yeNQx09WigwXrWCZGYvFL-C/view)
 
 ### My Blogs
 
