@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Zain Tariq](https://www.linkedin.com/in/muhammad-zain-tariq/), a Full Stack Developer, MultiCloud Expert , Data Scientist 🚀 from Pakistan PK, 
+Hi, I'm [Zain Tariq](https://www.linkedin.com/in/muhammad-zain-tariq/), a Full Stack Developer 🚀 from Pakistan PK, 
 
    
 **Talking about Personal Stuffs:**
