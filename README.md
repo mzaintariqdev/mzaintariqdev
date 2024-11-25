@@ -5,7 +5,7 @@
 
 <br />
 
-Hi, I'm [Zain Tariq](https://www.linkedin.com/in/muhammad-zain-tariq/), a Full Stack Developer 🚀 from Pakistan PK, 
+Hi, I'm [Zain Tariq](https://www.linkedin.com/in/muhammad-zain-tariq/), a Full Stack Developer 🚀 in Germany DE, 
 
    
 **Talking about Personal Stuffs:**
