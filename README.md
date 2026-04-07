@@ -70,10 +70,8 @@ Docker • Git • Firebase • GCP • Figma • Jira
 ### 📊 GitHub Stats
 
 <details>
-<summary>Click to expand</summary>
+<summary>📈 My GitHub Stats</summary>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzaintariqdev&show_icons=true&theme=gotham" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mzaintariqdev&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
 
 </details>
