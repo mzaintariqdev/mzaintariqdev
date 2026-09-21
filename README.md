@@ -93,11 +93,3 @@ JWT (access + refresh) • Role-Based Access Control (RBAC) • bcrypt • Webho
 
 ---
 
-<details>
-<summary>📊 GitHub Stats</summary>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mzaintariqdev&show_icons=true&theme=gotham" alt="GitHub Stats" />
-</p>
-
-</details>
